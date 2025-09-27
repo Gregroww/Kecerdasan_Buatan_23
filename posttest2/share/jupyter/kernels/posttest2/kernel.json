@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:\\Users\\Rafif Zahran Haryadi\\Documents\\Kuliah\\Semester 5\\Kecerdasan Buatan\\Posttest\\Posttest2\\posttest2\\Scripts\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "posttest2",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
